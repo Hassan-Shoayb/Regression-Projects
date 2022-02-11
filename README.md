@@ -1,2 +1,2 @@
-# Regression-Notebooks
-Regression Notebooks
+# Regression Notebooks
+Jupyter Notebooks for Regression Analysis
