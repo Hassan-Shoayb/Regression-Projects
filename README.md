@@ -11,3 +11,7 @@ Jupyter Notebooks for Regression Analysis
 ### Metrics and Evaluation
 1. Mean Absolute Error (MAE)
 2. Root Mean Squared Error (RMSE)
+
+
+## AMES HOUSING
+Under the Ames Housing Estimation, Linear Models like Lasso, Ridge, GridSearch, and cross validation was Applied for better result extimates. 
