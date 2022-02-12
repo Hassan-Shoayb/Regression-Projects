@@ -9,5 +9,5 @@ Jupyter Notebooks for Regression Analysis
 5. scikit-learn
 
 ### Metrics and Evaluation
-Mean Absolute Error (MAE) \n
-Root Mean Squared Error (RMSE)
+1. Mean Absolute Error (MAE)
+2. Root Mean Squared Error (RMSE)
