@@ -1,5 +1,6 @@
 # Regression Projects
 Jupyter Notebooks for Regression Analysis
+Most of the dataset are available on Kaggle for more details
 
 ### Core Libraries
 1. Numpy
